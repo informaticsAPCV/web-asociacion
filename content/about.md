@@ -5,4 +5,4 @@ draft: false
 menu: main
 ---
 
-Associació d'Informàtics de les Administracions Públiques de la Comunitat Valenciana (informàTICs)
+Asociación de Informáticos de la Administración Pública de la Comunitat Valenciana (informàTICs).
