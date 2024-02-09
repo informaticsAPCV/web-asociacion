@@ -16,7 +16,7 @@ theme = 'mainroad'
   authorbox = false
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  #mainSections = ["principal"]
+  mainSections = ["principal"]
 
 [Params.logo]
   subtitle = false # "Just another site" # Logo subtitle
