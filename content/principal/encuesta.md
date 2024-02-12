@@ -1,7 +1,7 @@
 ---
 title: "Encuesta"
 date: 2024-02-09T14:01:58+02:00
-draft: true
+draft: false
 #menu: main
 ---
 
