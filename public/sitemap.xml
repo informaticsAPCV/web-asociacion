@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:8080/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-04-04T12:00:58+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/principal/</loc>
+    <lastmod>2024-04-04T12:00:58+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/principal/encuesta/</loc>
     <lastmod>2024-02-09T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/principal/encuesta/</loc>
-    <lastmod>2024-02-09T14:01:58+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:8080/principal/</loc>
-    <lastmod>2024-02-09T14:01:58+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:8080/bienvenido/principal/</loc>
+    <loc>//localhost:1313/bienvenido/principal/</loc>
     <lastmod>2023-06-21T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/bienvenido/</loc>
+    <loc>//localhost:1313/bienvenido/</loc>
     <lastmod>2023-06-21T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2023-06-21T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/signup/</loc>
+    <loc>//localhost:1313/signup/</loc>
     <lastmod>2023-06-21T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2023-06-21T14:01:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:8080/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

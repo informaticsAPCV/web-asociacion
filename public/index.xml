@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asociación InformàTICs</title>
-    <link>//localhost:8080/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Asociación InformàTICs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 09 Feb 2024 14:01:58 +0200</lastBuildDate>
-    <atom:link href="//localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 11:00:58 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encuesta</title>
-      <link>//localhost:8080/principal/encuesta/</link>
+      <title>Comunicados los resultados de la encuesta a socios y cargos de interés</title>
+      <link>//localhost:1313/principal/envioencuesta/</link>
+      <pubDate>Thu, 04 Apr 2024 11:00:58 +0200</pubDate>
+      <guid>//localhost:1313/principal/envioencuesta/</guid>
+      <description>La , que respondió una gran parte de sus socios y pretendía sondear la opinión sobre muchas de las preocupaciones principales de estos, ha extraído importantes conclusiones que era necesario trasladar en primer lugar a nuestros socios, en segundo lugar a los responsables por sus competencias en la DGTIC y, por la parte en la que puede ser competente, al director general de Función Pública. El 14 de marzo el resultado de esta encuesta se comunicó por correo a nuestros asociados, indicándoles además nuestro plan de hacer llegar esta información también a los responsables que por parte de la junta consideramos pertinentes.</description>
+    </item>
+    <item>
+      <title>Encuesta de inquietudes dirigida a los asociados</title>
+      <link>//localhost:1313/principal/encuesta/</link>
       <pubDate>Fri, 09 Feb 2024 14:01:58 +0200</pubDate>
-      <guid>//localhost:8080/principal/encuesta/</guid>
+      <guid>//localhost:1313/principal/encuesta/</guid>
       <description>Desde la asociación de informáticos de la Administración Pública de la Comunidad Valenciana, hemos enviado una encuesta a nuestros asociados, que cuenta con alrededor de cien funcionarios de los distintos cuerpos de informática y telecomunicaciones, preguntándoles sobre muchas de las actuales preocupaciones de dichos cuerpos, con el objetivo de tener un conocimiento mayor de su opinión sobre estas, y cuáles son las que más les importan.&#xA;Tras recibir las contestaciones a esta encuesta, hemos extraído las preguntas que han gozado de mayor consenso:</description>
     </item>
     <item>
       <title>Bienvenido</title>
-      <link>//localhost:8080/bienvenido/principal/</link>
+      <link>//localhost:1313/bienvenido/principal/</link>
       <pubDate>Wed, 21 Jun 2023 14:01:58 +0200</pubDate>
-      <guid>//localhost:8080/bienvenido/principal/</guid>
+      <guid>//localhost:1313/bienvenido/principal/</guid>
       <description>Bienvenido a la página web de la Asociación de Informáticos de la Administración Pública de la Comunitat Valenciana (informàTICs).&#xA;Aquí encontrarás próximamente información sobre la actividad de la asociación y todo lo interesante para el colectivo al que representa.</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>//localhost:8080/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Wed, 21 Jun 2023 14:01:58 +0200</pubDate>
-      <guid>//localhost:8080/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Puedes contactar con nosotros a través de la cuenta de correo informatics.apcv@gmail.com.&#xA;Disponemos de un canal de Telegram para difusión de contenidos: https://t.me/canalinformatics</description>
     </item>
     <item>
       <title>Date de alta</title>
-      <link>//localhost:8080/signup/</link>
+      <link>//localhost:1313/signup/</link>
       <pubDate>Wed, 21 Jun 2023 14:01:58 +0200</pubDate>
-      <guid>//localhost:8080/signup/</guid>
+      <guid>//localhost:1313/signup/</guid>
       <description>El único requisito para darse de alta en la asociación es pertenecer a cualquiera de los cuerpos relacionados con las TIC de la Generalitat Valenciana y sus entidades relacionadas y dependientes.&#xA;Para la Administración de la Generalitat, según la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, estos cuerpos son:&#xA;A1-04-06 Cuerpo Superior Facultativo de Sistemas y tecnología de la información (que corresponde según la antigua Ley de Función Pública Valenciana a los cuerpos: A1-06 Cuerpo Superior técnico de ingeniería en informática y A1-14 Cuerpo Superior técnico de ingeniería de telecomunicación de la Administración de la Generalitat).</description>
     </item>
     <item>
       <title>Sobre Nosotros</title>
-      <link>//localhost:8080/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Wed, 21 Jun 2023 14:01:58 +0200</pubDate>
-      <guid>//localhost:8080/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>Asociación de Informáticos de la Administración Pública de la Comunitat Valenciana (informàTICs).</description>
     </item>
   </channel>
