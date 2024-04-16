@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Principals on Asociación InformàTICs</title>
-    <link>//localhost:1313/principal/</link>
+    <link>//localhost:8080/principal/</link>
     <description>Recent content in Principals on Asociación InformàTICs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 09 Feb 2024 14:01:58 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/principal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 11:00:58 +0200</lastBuildDate>
+    <atom:link href="//localhost:8080/principal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comunicados los resultados de la encuesta a socios y cargos de interés</title>
+      <link>//localhost:8080/principal/envioencuesta/</link>
+      <pubDate>Thu, 04 Apr 2024 11:00:58 +0200</pubDate>
+      <guid>//localhost:8080/principal/envioencuesta/</guid>
+      <description>La encuesta realizada desde la asociación, que respondió una gran parte de sus socios y pretendía sondear la opinión sobre muchas de las preocupaciones principales de estos, ha extraído importantes conclusiones que era necesario trasladar en primer lugar a nuestros socios, en segundo lugar a los responsables por sus competencias en la DGTIC y, por la parte en la que puede ser competente, al director general de Función Pública. El 14 de marzo el resultado de esta encuesta se comunicó por correo a nuestros asociados, indicándoles además nuestro plan de hacer llegar esta información también a los responsables que por parte de la junta consideramos pertinentes.</description>
+    </item>
     <item>
       <title>Encuesta de inquietudes dirigida a los asociados</title>
-      <link>//localhost:1313/principal/encuesta/</link>
+      <link>//localhost:8080/principal/encuesta/</link>
       <pubDate>Fri, 09 Feb 2024 14:01:58 +0200</pubDate>
-      <guid>//localhost:1313/principal/encuesta/</guid>
+      <guid>//localhost:8080/principal/encuesta/</guid>
       <description>Desde la asociación de informáticos de la Administración Pública de la Comunidad Valenciana, hemos enviado una encuesta a nuestros asociados, que cuenta con alrededor de cien funcionarios de los distintos cuerpos de informática y telecomunicaciones, preguntándoles sobre muchas de las actuales preocupaciones de dichos cuerpos, con el objetivo de tener un conocimiento mayor de su opinión sobre estas, y cuáles son las que más les importan.&#xA;Tras recibir las contestaciones a esta encuesta, hemos extraído las preguntas que han gozado de mayor consenso:</description>
     </item>
   </channel>
