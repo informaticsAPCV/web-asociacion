@@ -3,6 +3,10 @@ title: "Asociación informàTICs colaborador de la Semana Informática 2024"
 date: 2024-04-16T16:00:58+02:00
 draft: false
 #menu: main
+thumbnail:
+  src: "/../docs/imagenes/si2024-bg-portada.jpg"
+  visibility:
+    - list
 ---
 
 Del 23 al 25 de abril se celebrará la semana informática 2024 organizada por el COIICV (Colegio oficial de Ingeniería Informática de la Comunitat Valenciana), de la que la asociación informàTICs es colaborador.

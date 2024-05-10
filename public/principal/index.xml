@@ -6,8 +6,15 @@
     <description>Recent content in Principals on Asociación InformàTICs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 04 Apr 2024 11:00:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 16:00:58 +0200</lastBuildDate>
     <atom:link href="//localhost:8080/principal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asociación informàTICs colaborador de la Semana Informática 2024</title>
+      <link>//localhost:8080/principal/semanainformatica/</link>
+      <pubDate>Tue, 16 Apr 2024 16:00:58 +0200</pubDate>
+      <guid>//localhost:8080/principal/semanainformatica/</guid>
+      <description>Del 23 al 25 de abril se celebrará la semana informática 2024 organizada por el COIICV (Colegio oficial de Ingeniería Informática de la Comunitat Valenciana), de la que la asociación informàTICs es colaborador.&#xA;Este encuentro se produce desde 2006 y se ha convertido en un evento de referencia del sector de las tecnologías de la información en la Comunitat Valenciana. Es un encuentro abierto y participativo donde todos los profesionales y organizaciones del sector compartimos conocimiento de calidad, revisamos el estado del arte de las distintas técnicas y tecnologías y nos actualizamos para afrontar los constantes retos que nos plantea nuestra disciplina.</description>
+    </item>
     <item>
       <title>Comunicados los resultados de la encuesta a socios y cargos de interés</title>
       <link>//localhost:8080/principal/envioencuesta/</link>

@@ -3,6 +3,10 @@ title: "Comunicados los resultados de la encuesta a socios y cargos de interés"
 date: 2024-04-04T11:00:58+02:00
 draft: false
 #menu: main
+thumbnail:
+  src: "/../docs/imagenes/pregunta1.png"
+  visibility:	
+     - list
 ---
 
 La [encuesta realizada desde la asociación](/principal/encuesta/), que respondió una gran parte de sus socios y pretendía sondear la opinión sobre muchas de las preocupaciones principales de estos, ha extraído importantes conclusiones que era necesario trasladar en primer lugar a nuestros socios, en segundo lugar a los responsables por sus competencias en la DGTIC y, por la parte en la que puede ser competente, al director general de Función Pública.
