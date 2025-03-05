@@ -1,6 +1,6 @@
 ---
 title: "Mujeres en la historia de la informática"
-date: 2025-03-05T13:00:58+02:00
+date: 2025-03-05T11:00:58+02:00
 draft: false
 #menu: main
 thumbnail:
