@@ -6,8 +6,15 @@
     <description>Recent content on Asociación InformàTICs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 14 Jun 2024 11:05:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 13:00:58 +0200</lastBuildDate>
     <atom:link href="//localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mujeres en la historia de la informática</title>
+      <link>//localhost:8080/principal/mujeresinformaticas8m2025/</link>
+      <pubDate>Wed, 05 Mar 2025 13:00:58 +0200</pubDate>
+      <guid>//localhost:8080/principal/mujeresinformaticas8m2025/</guid>
+      <description>Con motivo del 8M desde informàTICs queremos reconocer algunas mujeres cuyas aportaciones han marcado la historia de la informática.&#xA;Ada Lovelace, la primera programadora (1815-1852)&#xA;Ada Lovelace fue la primera programadora de la historia. Amante de las matemáticas y de las ciencias, trabajó con Charles Babbage, padre de los ordenadores. Como consta en sus notas, que firmó tan solo con sus iniciales por temor a la censura al ser mujer, describió un lenguaje de programación cuyos aportes marcaron precedentes dentro de la informática.</description>
+    </item>
     <item>
       <title>La asociación informàTICs se adhiere al recurso de UGT al nuevo plan de teletrabajo</title>
       <link>//localhost:8080/principal/adhesionrecurso/</link>
