@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:8080/</loc>
-    <lastmod>2024-06-14T11:05:58+02:00</lastmod>
+    <lastmod>2025-03-05T11:00:58+02:00</lastmod>
   </url><url>
-    <loc>//localhost:8080/principal/adhesionrecurso/</loc>
-    <lastmod>2024-06-14T11:05:58+02:00</lastmod>
+    <loc>//localhost:8080/principal/mujeresinformaticas8m2025/</loc>
+    <lastmod>2025-03-05T11:00:58+02:00</lastmod>
   </url><url>
     <loc>//localhost:8080/principal/</loc>
+    <lastmod>2025-03-05T11:00:58+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:8080/principal/adhesionrecurso/</loc>
     <lastmod>2024-06-14T11:05:58+02:00</lastmod>
   </url><url>
     <loc>//localhost:8080/principal/asambleaordinaria2024/</loc>
