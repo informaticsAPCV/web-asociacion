@@ -6,8 +6,15 @@
     <description>Recent content on Asociación InformàTICs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 05 Mar 2025 11:00:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 07:00:58 +0200</lastBuildDate>
     <atom:link href="//localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asociación informàTICs colaborador de la Semana Informática 2025</title>
+      <link>//localhost:8080/principal/semanainformatica2025/</link>
+      <pubDate>Fri, 14 Mar 2025 07:00:58 +0200</pubDate>
+      <guid>//localhost:8080/principal/semanainformatica2025/</guid>
+      <description>Del 8 al 10 de abril se celebrará la semana informática 2024 organizada por el COIICV (Colegio oficial de Ingeniería Informática de la Comunitat Valenciana), de la que la asociación informàTICs es, un año más, colaborador.&#xA;Este encuentro se produce desde 2006 y se ha convertido en un evento de referencia del sector de las tecnologías de la información en la Comunitat Valenciana. Es un encuentro abierto y participativo donde todos los profesionales y organizaciones del sector compartimos conocimiento de calidad, revisamos el estado del arte de las distintas técnicas y tecnologías y nos actualizamos para afrontar los constantes retos que nos plantea nuestra disciplina.</description>
+    </item>
     <item>
       <title>Mujeres en la historia de la informática</title>
       <link>//localhost:8080/principal/mujeresinformaticas8m2025/</link>
